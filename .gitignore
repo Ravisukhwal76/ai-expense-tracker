@@ -33,12 +33,6 @@ build/
 .vscode/
 
 
-
-
-
-
-
-
 # ======== Global ========
 .DS_Store
 Thumbs.db
@@ -91,7 +85,7 @@ Thumbs.db
 *.crt
 *.p12
 *.keystore
-
+	
 # ======== Logs ========
 logs/
 *.log
